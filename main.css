@@ -1,0 +1,60 @@
+body{
+	font-family: 'Patrick Hand SC', cursive;
+}
+img{
+	max-width: 100%;
+}
+.quitar-float{
+	float: none;
+}
+.espacio-arriba{
+	margin-top: 50px;
+}
+.lobster{
+	font-family: 'Yellowtail', cursive;
+}
+.morado{
+	color: #3B0639;
+}
+a{
+	color: #09554C;
+}
+.espacio-derecha{
+	margin-right: 1em;
+}
+.pt-sans{
+	font-family: 'PT Sans', sans-serif;
+}
+.uno{
+	width:50%;
+	height:50%;
+	float:left;
+}
+.dos{
+	width:50%;
+	height:50%;
+	float:right;
+}
+.tres{
+	width:50%;
+	height:50%;
+	float:left;
+}
+.cuatro{
+	width:50%;
+	height:50%;
+	float:right;
+}
+img{
+	border: black 2px solid;
+	margin: 2px;
+}
+div{
+	border: black 2px solid;
+	margin: 2px;
+	text-align: center;
+}
+
+table th {
+	text-align: center;
+}
